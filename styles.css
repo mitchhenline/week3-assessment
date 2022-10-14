@@ -1,5 +1,9 @@
+* {
+	color: antiquewhite;
+}
+
 body {
-  background: #ddd;
+  background: rgb(33, 33, 33);
   margin: 1rem;
   padding: 1rem;
   max-width: 500px;
@@ -35,4 +39,9 @@ input {
 
 img {
 	max-width: 300px;
+}
+
+.button1 {
+	background-color: rgb(255, 255, 255);
+	color: black;
 }

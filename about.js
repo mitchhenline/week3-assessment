@@ -8,9 +8,7 @@ function handleSubmit(evt) {
 	alert('Form has been submitted');
 }
 
-function complimentUser(evt) {
-
-	evt.preventDefault();
+function complimentUser() {
 	alert('You handle that mouse very well');
 }
 
